@@ -42,7 +42,7 @@ const bookDB = {
             rating: "4/5",
         },
         {
-            name: "Ikigai: The Japanese Secret to a Long and Happy Life - Francesc Miralles and Hector Garcia",
+            name: "Ikigai - Francesc Miralles and Hector Garcia",
             rating: "4.2/5",
         },
     ],
